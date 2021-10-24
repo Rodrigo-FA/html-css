@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* Id em CSS é # */
+/* class em CSS é . */
+
+body{
+    background-image: linear-gradient(to right, #CF6DF2, #921CBD);
+
+ }
+
+h1#principal{
+    color: #FFFFFF;
+    background-color: #603270;
+    text-align: center;
+}
+
+h1.intro{
+    color: #571170;
+}
+
+.backintro{
+    color: #4B00F5;
+}
